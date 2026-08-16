@@ -1,6 +1,6 @@
 # 🧠 AI Engineering Portfolio — Tejoz
 
-A two-module portfolio documenting my hands-on journey to becoming an AI Engineer.
+A three-module portfolio documenting my hands-on journey to becoming an AI Engineer.
 
 ```text
 Building-an-AI-Engineer/
@@ -10,7 +10,14 @@ Building-an-AI-Engineer/
 │   ├── day_1.md ... day_21.md
 │   └── *.py
 │
-└── 02 - AI Research Agent/            ← Days 22–28
+├── 02 - AI Research Agent/            ← Days 22–28
+│   ├── README.md
+│   ├── architecture.md
+│   └── research_agent.py
+│
+└── 03 - LangChain & RAG Foundations/  ← Days 29–56
     ├── README.md
-    ├── architecture.md
-    └── research_agent.py
+    ├── requirements.txt
+    └── week_5_langchain_basics/
+        ├── day_29.md
+        └── day_29.py
