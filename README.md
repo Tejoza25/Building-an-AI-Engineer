@@ -19,5 +19,3 @@ Building-an-AI-Engineer/
     ├── README.md
     ├── requirements.txt
     └── week_5_langchain_basics/
-        ├── day_29.md
-        └── day_29.py
